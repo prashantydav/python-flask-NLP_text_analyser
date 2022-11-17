@@ -1,5 +1,6 @@
 Flask==2.2.2
-flask_sqlalchemy==3.0.2
+mongoengine==0.24.2
 nltk==3.7
 pymongo==4.3.2
 spacy==3.4.3
+
